@@ -31,7 +31,7 @@ export default function About() {
               <div className="relative h-48 w-48 rounded-full bg-gradient-to-tr from-fuchsia-500 to-indigo-500 p-1 shadow-xl">
                 <div className="w-full h-full rounded-full overflow-hidden border-4 border-white">
                   <img
-                    src="/My pic.png"
+                    src="/my-pic.png"
                     alt="Ishika Gupta"
                     className="w-full h-full object-cover object-center"
                   />
