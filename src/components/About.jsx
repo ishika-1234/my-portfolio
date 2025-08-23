@@ -23,7 +23,7 @@ export default function About() {
 
         {/* main card */}
         <div className="grid items-center gap-10 rounded-3xl border border-white/60 bg-white/70 p-10 shadow-2xl backdrop-blur-md ring-1 ring-black/5 md:grid-cols-[320px,1fr] transition hover:shadow-purple-200/70">
-          
+
           {/* avatar + animated border ring */}
           <div className="mx-auto md:mx-0">
             <div className="relative flex items-center justify-center">
@@ -35,6 +35,7 @@ export default function About() {
                     alt="Ishika Gupta"
                     className="w-full h-full object-cover object-center"
                   />
+
                 </div>
               </div>
             </div>
