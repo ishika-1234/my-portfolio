@@ -36,6 +36,9 @@ export default function About() {
                     className="w-full h-full object-cover object-center"
                   />
 
+
+
+
                 </div>
               </div>
             </div>
